@@ -1,5 +1,7 @@
 # Ariel Cerón González
 
+Tecnólogo por la Universidad Nacional Autónoma de México. Matemático por la Universidad Abierta y a Distancia de México. WebDeveloper por accidente.
+
 ```python
 about= {
   name: "Ariel Cerón González",
