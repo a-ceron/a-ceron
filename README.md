@@ -12,3 +12,4 @@ perfil= {
   nacimiento: date(1997, 3, 20),
   }
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&theme=github_dark)
