@@ -13,4 +13,5 @@ perfil= {
   }
 ```
 
-<a href="Intended hyperlink" style="margin-rigth:15%"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-ceron&show_icons=true&theme=github_dark)</a>   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)
+<a href="#" style="margin-rigth:15%"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-ceron&show_icons=true&theme=github_dark)</a>   
+<a href="#" style="margin-left:15%">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)</a>   
