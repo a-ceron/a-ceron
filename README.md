@@ -12,4 +12,4 @@ perfil= {
   nacimiento: date(1997, 3, 20),
   }
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-ceron&show_icons=true&theme=github_dark)<p>&nbsp..;</p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-ceron&show_icons=true&theme=github_dark)<p>&nbsp;</p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&theme=github_dark)
