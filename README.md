@@ -12,7 +12,6 @@ perfil= {
   nacimiento: date(1997, 3, 20),
   }
 ```
-<center>
 <a href="#" > ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-ceron&show_icons=true&theme=github_dark)</a>   
 <a href="#" style="margin-left:20%">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)</a>   
-</center>
+
