@@ -12,11 +12,5 @@ perfil= {
   nacimiento: date(1997, 3, 20),
   }
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-ceron&show_icons=true&theme=github_dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-ceron&layout=compact&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img style="margin-left:20%"align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-ceron&show_icons=true&theme=github_dark" />
-</a>
+<a href="Intended hyperlink" style="margin-rigth:15%"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a-ceron&show_icons=true&theme=github_dark)</a>   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)
