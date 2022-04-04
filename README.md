@@ -17,7 +17,7 @@ perfil= {
 En mis repositorios he colocado los proyectos que considero tienen algún sentido y pueden ser útiles para alguien, por ello muchos de los documentos se encuentran en un archivo Jupyter, para permitir al otro poder ver y seguir, a veces, los caminos de ejecución.
 
 
-<a href="#" style="width:100%; text-align:center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)</a>   
+<a href="#" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)</a>   
 
 
 ---
