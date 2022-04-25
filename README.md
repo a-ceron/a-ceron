@@ -6,7 +6,7 @@ Tecnólogo por la Universidad Nacional Autónoma de México. Matemático por la 
 perfil= {
   nombre: "Ariel Cerón González",
   apodo: "aceron",
-  resumen: "Latin American born in Mexico. I belive in OpenSource project, in the democratization of science and I think the south always will resurface",
+  resumen: "Latin American born in Mexico. I belive in OpenSource project, democratization of science and I think the south always will resurface",
   habilidades: [ "Web programing", "Science computing", "Big data", "Python"], 
   idiomas: [ "Spaish", "English" ],
   nacimiento: date(1997, 3, 20),
