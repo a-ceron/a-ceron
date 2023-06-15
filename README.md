@@ -1,6 +1,6 @@
 # Ariel Cerón González
 
-Tecnólogo por la Universidad Nacional Autónoma de México. Matemático por la Universidad Abierta y a Distancia de México. WebDeveloper por accidente.
+Maestro en Ciencias e Ingienería de la Computación y Licenciado en Tecnólogía por la Universidad Nacional Autónoma de México. Licenciado en Matemáticas por la Universidad Abierta y a Distancia de México. SoftwareDeveloper por accidente.
 
 ```python
 perfil= {
@@ -14,8 +14,6 @@ perfil= {
 ```
 
 ---
-En mis repositorios he colocado los proyectos que considero tienen algún sentido y pueden ser útiles para alguien, por ello muchos de los documentos se encuentran en un archivo Jupyter, para permitir al otro poder ver y seguir, a veces, los caminos de ejecución.
-
 
 <a href="#" >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ceron&layout=compact&theme=github_dark)</a>   
 
