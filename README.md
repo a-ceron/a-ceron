@@ -12,6 +12,8 @@ perfil= {
   nacimiento: date(1997, 3, 20),
   }
 ```
+Como programador tengo interes en la ciencia de datos y el machine learning. Las tecnologías que más aprecio son las relacionadas con la nube, considero que Microsoft tiene proyectos interesantes como Azure, Github, VSCode, entre otros. Me gusta aprender y siempre estoy en busqueda de la aplicación. De forma personal me interesa la política y la gestión de recursos. 
+
 
 ---
 
